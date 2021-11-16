@@ -1,12 +1,12 @@
 ---
 
-layout: slide 
+layout: slidedfasdgasdga 
 
-title: "Welcome to our second slide!"
+title: "Welcome to our second slide!"dsdfsad
 
 ---
 
-Your text prudvhivinavw
+Your text prudvhivinavwffddf
 
-
-Use the left arrow to go back!
+df
+Use the left arrow to go back!ddfdfsdf
